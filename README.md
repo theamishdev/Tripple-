@@ -1,3 +1,7 @@
+#Name: Amish Verma 
+#Regd Number: 12301274
+#University: LPU
+
 # POLICYFLOW
 
 ### Fault-Tolerant Insurance Issuance & Reconciliation Engine
