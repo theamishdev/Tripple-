@@ -1,6 +1,9 @@
 # POLICYFLOW
+
 ### Fault-Tolerant Insurance Issuance & Reconciliation Engine
 **Campus Placement | Software Engineering Practical Assessment**
+
+![PolicyFlow Dashboard](./image%20copy.png)
 
 PolicyFlow is an enterprise-grade, fault-tolerant travel insurance intake, issuance, and reconciliation engine built with PHP 8.2+ and Laravel. It receives policy purchase requests from distribution agents, calculates deterministic premiums, submits them to external insurers, and tracks their full lifecycle.
 
